@@ -3,7 +3,7 @@ game.module(
 )
 .body(function() {
     
-// game.addAsset('sprite.png');
+    game.addAsset('red.png', 'red');
 // game.addAudio('audio/music.m4a', 'music');
 
 });
